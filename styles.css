@@ -1,0 +1,41 @@
+.custom-navbar {
+  background-color: #608BC1;
+}
+
+.custom-button{
+  background-color: #133E87;
+  color: white;
+}
+
+.custom-button:hover{
+  background-color: #23385e;
+  color: white;
+}
+
+.carousel-caption-text{
+background-color: white;
+color: black;
+padding: 10px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #E4E0E1;
+}
+
+.jumbotron {
+  flex: 1;
+}
+
+footer {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  background-color: #2a3d54;
+}
